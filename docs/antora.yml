@@ -1,0 +1,5 @@
+name: quarkus-ansible-automation-platform-api-client
+title: Quarkus Ansible Automation Platform Api Client
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
